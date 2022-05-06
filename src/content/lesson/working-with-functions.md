@@ -85,7 +85,7 @@ function multiply(a, b) {
 }
 
 console.log(myVariable);
-// this console.log won't work it will trigger an error) because myVariable was  
+// this console.log won't work it will trigger an error because myVariable was  
 // declared inside the function multiply, therefore it is not available outside. 
 
 ```
